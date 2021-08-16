@@ -1,4 +1,8 @@
 # gitskills
 add something
-222
+<<<<<<< HEAD
+111
 
+=======
+111
+>>>>>>> con
